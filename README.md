@@ -33,6 +33,37 @@ Before running the project, ensure you have:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/awanishyadav967/CyberSecurity-Analysis-and-Mitigation.git
+   
+2. Install Requirement mentioned above
+
+
+
+# ScreenShot
+![Screenshot 1](cyber1.png)
+![Screenshot 2](cyber2.png)
+![Screenshot 1](cyber3.png)
+
+
+## Author
+
+- **Author:** [Avanish Yadav]
+- **Email:** [avanishyadavvns23@gmail.com]
+
+## Open to Contribute
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+
+Please adhere to the following guidelines:
+
+- Follow Python coding standards.
+- Write clear commit messages.
+- Test thoroughly before submitting changes.
+
+## Additional Information
+
+For more details about the project or specific features, feel free to contact the author or refer to the project's.
+
+
+   
 
