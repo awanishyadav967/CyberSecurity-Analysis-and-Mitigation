@@ -37,6 +37,8 @@ Before running the project, ensure you have:
    
 2. Install Requirement mentioned above
 
+3. To Run the final app - streamlit run main.py
+
 
 
 # ScreenShot
