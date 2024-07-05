@@ -8,7 +8,7 @@ load_dotenv()
 # Function to check if a URL is a phishing URL using VirusTotal API
 def check_phishing_url(url):
     try:
-        #api_key = 'c7e755f927a3b4bb88cf5ef7fd7747f0d2aa7359fdc8e299bbfb73fa54044efe'  # Replace with your VirusTotal API key
+       
         api_key=os.getenv('API_KEY')
 
         # Encode the URL in base64 format
